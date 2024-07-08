@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a, b, perimeter;
+    cin>>a;
+    cin>>b;
+    perimeter=2*(a+b) ;
+    cout<<perimeter;
+}
