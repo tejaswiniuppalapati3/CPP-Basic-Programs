@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    long int L,B,area;
+    cin>>L;
+    cin>>B;
+    area=L*B;
+    cout<<area;
+     
+    return 0;
+}
